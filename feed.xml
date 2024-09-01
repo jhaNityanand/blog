@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ 
+ <rss version="2.0"> 
+ <channel> 
+ 
+ <title>MicroShorts</title> 
+ <atomlink href="http://localhost/blog/api/feed" rel="self" type="application/rss+xml" /> 
+ <link>http://localhost/blog</link> 
+ <description>Microshorts is an educational niche website related to biology, useful for High School, B.Sc, M.Sc., M.Phil., and Ph.D.</description> 
+ <lastBuildDate>Fri, 09 Feb 2024 05:21:33</lastBuildDate> 
+ <language> en-US </language> 
+ <updatePeriod> hourly </updatePeriod> 
+ <updateFrequency> 1 </updateFrequency> 
+ <generator>http://localhost/blog</generator> 
+ 
+ <image> 
+ <url>http://localhost/blog/public/assets/images/theme/favicon.svg</url> 
+ <title>MicroShorts</title> 
+ <link>http://localhost/blog</link> 
+ <width>32</width> 
+ <height>32</height> 
+ </image> 
+ 
+ <item> 
+ <title>Preparation of Buffer</title> 
+ <link>http://localhost/blog/post/preparation-of-buffer</link> 
+ <comments>http://localhost/blog/post/preparation-of-buffer#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 07 Feb 2024 08:07:22</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>A buffer solution is one that resist pH change on addition  of acid. This solution are required in many biochemical experiments where the chemical reaction are carried out under controlled pH. The buffer solution are prepared by combining.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Preparation of Mycological Growth Media</title> 
+ <link>http://localhost/blog/post/preparation-of-mycological-growth-media</link> 
+ <comments>http://localhost/blog/post/preparation-of-mycological-growth-media#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 07 Feb 2024 07:49:23</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The medium contains a variety of salts like sulphates, phosphates to support the growth of Lactobacilli. Necessary nitrogenous nutrients for Lactobacilli are provided by peptic digest of animal tissue and yeast extract.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Preparation of Bacteriological Growth Media</title> 
+ <link>http://localhost/blog/post/preparation-of-bacteriological-growth-media</link> 
+ <comments>http://localhost/blog/post/preparation-of-bacteriological-growth-media#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 07 Feb 2024 06:09:31</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Nutrient agar allow the growth of a variety of microorganisms that do not usually require specific nutrients or supplements. The primary constituents are peptone, beef extract, and agar.</description> 
+ </item> 
+ 
+ <item> 
+ <title>TRUST (Toludine Red Unheated Serum Test) For Syphilis</title> 
+ <link>http://localhost/blog/post/toludine-red-unheated-serum-test-for-syphilis</link> 
+ <comments>http://localhost/blog/post/toludine-red-unheated-serum-test-for-syphilis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 08:20:52</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The TRUST reagent containing modified VDRL antigen and toludine red pigment particles, flocclulate when mixed with sample containing “reagin”.</description> 
+ </item> 
+ 
+ <item> 
+ <title>RPR (Rapid Plasma Reagin ) test for Syphilis</title> 
+ <link>http://localhost/blog/post/rapid-plasma-reagin-test-for-syphilis</link> 
+ <comments>http://localhost/blog/post/rapid-plasma-reagin-test-for-syphilis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 08:06:40</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The RPR reagent containing modified VDRL antigen and microparticulate carbon particles, flocculate when mixed with sample containing “regain”.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Strip Test For Pregnancy</title> 
+ <link>http://localhost/blog/post/strip-test-for-pregnancy</link> 
+ <comments>http://localhost/blog/post/strip-test-for-pregnancy#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 07:47:18</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>One step pregnancy test utilize the principle of Immunochromatography, A unique two site immunoassay on a membrane. As the test sample flows through the membrane assembly of the dipstick, the colored anti-hcG-colloidal gold conjugate complexes with the hcG in the sample.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Latex Test For C-reactive Protein</title> 
+ <link>http://localhost/blog/post/latex-test-for-c-reactive-protein</link> 
+ <comments>http://localhost/blog/post/latex-test-for-c-reactive-protein#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 07:21:09</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>This test based on the immunologic reaction between CRP as an antigen and latex particles have been coated with monospecific anti-human CRP and sensitized to detect levels greater than 6 μg/mL CRP.</description> 
+ </item> 
+ 
+ <item> 
+ <title>LATEX TEST FOR RHEUMATOID ARTHRITIS [RHEUMATOID  FACTOR]</title> 
+ <link>http://localhost/blog/post/latex-test-for-rheumatoid-arthritis</link> 
+ <comments>http://localhost/blog/post/latex-test-for-rheumatoid-arthritis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 01:00:09</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Rheumatoid factor latex test kit consists of polystyrene latex particle coated with specially modified preparation of human gammaglobulin (IgG) in order to avoid non specific agglutination.</description> 
+ </item> 
+ 
+ <item> 
+ <title>LATEX TEST FOR ANTI STREPTOLYSIN "O" (ASO)</title> 
+ <link>http://localhost/blog/post/latex-test-for-anti-streptolysin-o</link> 
+ <comments>http://localhost/blog/post/latex-test-for-anti-streptolysin-o#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 04 Feb 2024 12:33:53</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Antistreptolysin 'O' (ASO) test kit is based on the following principle Polystyrene latex particles are coated with purified and stabilized Streptolysin O (antigen), which reacts with its corresponding Antistreptolysin O (antibody).</description> 
+ </item> 
+ 
+ <item> 
+ <title>ELISA Detection of HBsAg</title> 
+ <link>http://localhost/blog/post/elisa-detection-of-hbsag</link> 
+ <comments>http://localhost/blog/post/elisa-detection-of-hbsag#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 Jan 2024 09:11:29</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Hepatitis B or Serum Hepatitis is one of the most common infectious diseases in the world and has become a global public health problem. It is caused by Hepatitis B virus (HBV), which is a prototype of Hepadnaviridae family.</description> 
+ </item> 
+ 
+ <item> 
+ <title>RNA estimation by Orcinol method</title> 
+ <link>http://localhost/blog/post/rna-estimation-by-orcinol-method</link> 
+ <comments>http://localhost/blog/post/rna-estimation-by-orcinol-method#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 Jan 2024 08:49:19</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The colorimetric method suitable for pentose determination have been utilize for measuring RNA and involve reaction with orcinol, aniline, phloroglucinol etc. One of the widely used reaction is those of RNA with orcinol commonly used for estimation purpose.</description> 
+ </item> 
+ 
+ <item> 
+ <title>DNA Estimation by Diphenylamine (DPA) Method</title> 
+ <link>http://localhost/blog/post/dna-estimation-by-diphenylamine-method</link> 
+ <comments>http://localhost/blog/post/dna-estimation-by-diphenylamine-method#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 Jan 2024 08:28:48</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Determining DNA quantity and purity is important prior to other reactions (PCR) for which it is necessary to know the exact DNA concentration in the sample of isolated DNA.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Isolation of genomic DNA from fungi.</title> 
+ <link>http://localhost/blog/post/isolation-of-fungi-dna</link> 
+ <comments>http://localhost/blog/post/isolation-of-fungi-dna#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 19 Sep 2023 01:04:32</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Fungal genomes are among the smallest genomes of eukaryotes. The sizes of fungal genomes range from less than 10 Mbp to hundreds of Mbp. The average genome size is approximately 37 Mbp in Ascomycota, 47 Mbp in Basidiomycota and 75 Mbp in Oomycota.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Determination of Biochemical Oxygen Demand (BOD)</title> 
+ <link>http://localhost/blog/post/biochemical-oxygen-demand</link> 
+ <comments>http://localhost/blog/post/biochemical-oxygen-demand#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 19 Sep 2023 09:31:12</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>Biochemical oxygen demand or BOD is a chemical procedure for determining the uptake rate of dissolved oxygen by the biological organisms in a body of water. The method consists of filling with sample, to overflowing, an airtight bottle of the specified size and incubating it at the specified temperature for 5 days.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Determination of  TOTAL DISSOLVE SOLID (TDS)</title> 
+ <link>http://localhost/blog/post/total-dissolve-solid</link> 
+ <comments>http://localhost/blog/post/total-dissolve-solid#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 19 Sep 2023 09:04:50</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The term “solids” is generally used when referring to any material suspended or dissolved in water or wastewater that can be physically isolated either through filtration or through evaporation. Solids can be classified as either filterable or non-filterable.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Determination of total suspended solids (TSS)</title> 
+ <link>http://localhost/blog/post/total-suspended-solids</link> 
+ <comments>http://localhost/blog/post/total-suspended-solids#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 19 Sep 2023 08:49:41</pubDate> 
+ <category>Experimental Microbiology</category> 
+ <description>The term “solids” is generally used when referring to any material suspended or dissolved in water or wastewater that can be physically isolated either through filtration or through evaporation. Solids can be classified as either filterable or non-filterable.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Homologous Chromosomes: Characteristics, Significances</title> 
+ <link>http://localhost/blog/post/homologous-chromosomes</link> 
+ <comments>http://localhost/blog/post/homologous-chromosomes#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 10 Sep 2023 10:58:52</pubDate> 
+ <category>Genetics</category> 
+ <description>Chromosomes are essential components of the genetic material located in the nucleus of cells. They are thread-like structures that consist of DNA and proteins.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Lac operon- Definition, structure, Inducers, diagram</title> 
+ <link>http://localhost/blog/post/lac-operon</link> 
+ <comments>http://localhost/blog/post/lac-operon#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 10 Sep 2023 08:34:08</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>The lactose or lac operon of Escherichia coli is a cluster of three structural genes encoding proteins involved in lactose metabolism and the sites on the DNA involved in the regulation of the operon.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Tryptophan (Trp) Operon</title> 
+ <link>http://localhost/blog/post/trp-operon</link> 
+ <comments>http://localhost/blog/post/trp-operon#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 10 Sep 2023 08:17:58</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>Many protein-coding genes in bacteria are clustered together in operons which serve as transcriptional units that are coordinately regulated.</description> 
+ </item> 
+ 
+ <item> 
+ <title>DNA Fingerprinting- Principle, Methods, Applications</title> 
+ <link>http://localhost/blog/post/dna-fingerprinting</link> 
+ <comments>http://localhost/blog/post/dna-fingerprinting#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 10 Sep 2023 08:00:26</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿DNA fingerprinting or DNA profiling is a process used to determine the nucleotide sequence at a certain part of the DNA that is unique in all human beings.</description> 
+ </item> 
+ 
+ <item> 
+ <title>PCR Machine- Principle, Parts, Steps, Types, Uses, Examples</title> 
+ <link>http://localhost/blog/post/pcr-machine</link> 
+ <comments>http://localhost/blog/post/pcr-machine#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 10 Sep 2023 07:46:55</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿PCR machine is also known as thermal cyclers or DNA amplifiers, or thermocyclers. PCR machines amplify small segments of DNA or RNA chosen from the genome with a primer. It is inexpensive and a very effective tool.</description> 
+ </item> 
+ 
+ <item> 
+ <title>RT-PCR: Definition, Principle, Enzymes, Types, Steps, Uses</title> 
+ <link>http://localhost/blog/post/rt-pcr</link> 
+ <comments>http://localhost/blog/post/rt-pcr#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sat, 09 Sep 2023 11:19:11</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿Polymerase chain reaction (PCR) is a temperature-dependent nucleic acid amplification technique used to amplify the DNA or RNA in vitro enzymatically.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Post Translational Modification- Definition, Processing</title> 
+ <link>http://localhost/blog/post/post-translational-modification</link> 
+ <comments>http://localhost/blog/post/post-translational-modification#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sat, 09 Sep 2023 10:34:17</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>It may involve modifying the amino acid side chain, terminal amino or carboxyl group using covalent or enzymatic means following protein biosynthesis.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Topoisomerase: Types, Structure, Functions, Mechanism</title> 
+ <link>http://localhost/blog/post/topoisomerase</link> 
+ <comments>http://localhost/blog/post/topoisomerase#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 07 Sep 2023 10:28:51</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿Isomerase enzymes form or assist in forming isomers of any biological components. They assist in the rearrangement process of different biomolecules during the formation or breakage of bonds. Topoisomerase is a type of isomerase enzyme.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Prokaryotic and Eukaryotic RNA Polymerase</title> 
+ <link>http://localhost/blog/post/rna-polymerase</link> 
+ <comments>http://localhost/blog/post/rna-polymerase#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 07 Sep 2023 10:02:54</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>Ribonucleic Acid (RNA) Polymerase (RNAP) enzyme is a multi-subunit enzyme that applies its activity in the catalyzation of the transcription process of RNA synthesized from a DNA template.</description> 
+ </item> 
+ 
+ <item> 
+ <title>What is DNA Replication?</title> 
+ <link>http://localhost/blog/post/what-is-dna-replication</link> 
+ <comments>http://localhost/blog/post/what-is-dna-replication#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 07 Sep 2023 11:33:04</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>Deoxyribonucleic acid (DNA) is a nucleic acid that is made up of three components: a deoxyribose sugar, a phosphate, and a nitrogenous base.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Eukaryotic and Prokaryotic DNA Polymerase</title> 
+ <link>http://localhost/blog/post/eukaryotic-and-prokaryotic-dna-polymerase</link> 
+ <comments>http://localhost/blog/post/eukaryotic-and-prokaryotic-dna-polymerase#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 07 Sep 2023 11:01:14</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿DNA polymerases are a group of enzymes that are used to make copies of DNA templates, essentially used in DNA replication mechanisms.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Electroporation: Definition, Principle, Steps, Uses</title> 
+ <link>http://localhost/blog/post/electroporation</link> 
+ <comments>http://localhost/blog/post/electroporation#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 07 Sep 2023 10:51:26</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>Electroporation, also called electropermeabilization (EP), is a physical method of introducing genetic material, proteins, drugs, or other desired molecules</description> 
+ </item> 
+ 
+ <item> 
+ <title>What is a DNA? An Introduction</title> 
+ <link>http://localhost/blog/post/dna-introduction</link> 
+ <comments>http://localhost/blog/post/dna-introduction#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 31 Aug 2023 08:53:37</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>DNA stands for Deoxyribonucleic Acid, which is a molecule that contains the instructions an organism needs to develop, live and reproduce. These instructions are found inside every cell and are passed down from parents to their children.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Real-Time PCR: Principle, Process, Markers, Uses</title> 
+ <link>http://localhost/blog/post/real-time-pcr</link> 
+ <comments>http://localhost/blog/post/real-time-pcr#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 31 Aug 2023 09:15:56</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>﻿Real-Time PCR is a technique used to monitor the progress of a PCR reaction in real-time.   At the same time, a relatively small amount of PCR product (DNA, cDNA or RNA) can be quantified.</description> 
+ </item> 
+ 
+ <item> 
+ <title>What are the different types of RNA?</title> 
+ <link>http://localhost/blog/post/types-of-rna</link> 
+ <comments>http://localhost/blog/post/types-of-rna#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 31 Aug 2023 08:38:42</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>RNA or ribonucleic acid is a polymer of nucleotides which is made up of a ribose sugar, a phosphate, and bases such as adenine, guanine, cytosine, and uracil.</description> 
+ </item> 
+ 
+ <item> 
+ <title>The Wobble Hypothesis: Definition, Statement, Significance</title> 
+ <link>http://localhost/blog/post/wobble-hypothesis</link> 
+ <comments>http://localhost/blog/post/wobble-hypothesis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 30 Aug 2023 11:41:45</pubDate> 
+ <category>Molecular Biology</category> 
+ <description>There are more than one codon for one amino acid. This is called degeneracy of genetic code. To explain the possible cause of degeneracy of codons, in 1966, Francis Crick proposed “the Wobble hypothesis”.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Polymerase Chain Reaction (PCR)- Principle, Steps, Applications</title> 
+ <link>http://localhost/blog/post/polymerase-chain-reaction</link> 
+ <comments>http://localhost/blog/post/polymerase-chain-reaction#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 30 Aug 2023 10:59:57</pubDate> 
+ <category>Biotechnology</category> 
+ <description>PCR is an enzymatic process in which a specific region of DNA is replicated over and over again to yield many copies of a particular sequence. ·       The most widely used target nucleic acid amplification method is the polymerase chain reaction (PCR).</description> 
+ </item> 
+ 
+ <item> 
+ <title>Polio Virus- An Overview</title> 
+ <link>http://localhost/blog/post/polio-virus</link> 
+ <comments>http://localhost/blog/post/polio-virus#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 07 Jul 2023 01:40:45</pubDate> 
+ <category>Virology</category> 
+ <description>Poliovirus is a member of a family of viruses called the Picornaviridae. Virions are spherical in shape with a diameter of about 27nm.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Herpes simplex virus 1 (HSV-1)</title> 
+ <link>http://localhost/blog/post/herpes-simplex-virus-1-hsv-1</link> 
+ <comments>http://localhost/blog/post/herpes-simplex-virus-1-hsv-1#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 07 Jul 2023 12:31:28</pubDate> 
+ <category>Virology</category> 
+ <description>The icosahedral protein capsid with average diameter 100 nm consists of 162 hollow hexagonal and pentagonal capsomeres with an electron-dense core containing the double stranded DNA genome with 125-240 kbp nucleotides together forming the nucleocapsid.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Secondary Structure of Proteins</title> 
+ <link>http://localhost/blog/post/secondary-structure-of-proteins</link> 
+ <comments>http://localhost/blog/post/secondary-structure-of-proteins#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 30 May 2023 05:44:39</pubDate> 
+ <category>Protein</category> 
+ <description>The nature of the bonds in the peptide backbone plays an important role here. Within each amino acid residue are two bonds with reasonably free rotation:</description> 
+ </item> 
+ 
+ <item> 
+ <title>Tertiary Structure of Proteins</title> 
+ <link>http://localhost/blog/post/tertiary-structure-of-proteins</link> 
+ <comments>http://localhost/blog/post/tertiary-structure-of-proteins#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 30 May 2023 05:38:03</pubDate> 
+ <category>Protein</category> 
+ <description>The tertiary structure of a protein is the three-dimensional arrangement of all the atoms in the molecule. The conformations of the side chains and the positions of any prosthetic groups are parts of the tertiary structure, as is the arrangement of helical and pleated-sheet sections with respect to one another.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Quaternary Structure of Proteins</title> 
+ <link>http://localhost/blog/post/quaternary-structure-of-proteins</link> 
+ <comments>http://localhost/blog/post/quaternary-structure-of-proteins#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 30 May 2023 05:34:10</pubDate> 
+ <category>Protein</category> 
+ <description>Quaternary structure is the final level of protein structure and pertains to proteins that consist of more than one polypeptide chain. Each chain is called a subunit. The number of chains can range from two to more than a dozen, and the chains may be identical or different.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in heavy metals (Metallotolerant)</title> 
+ <link>http://localhost/blog/post/metallotolerant</link> 
+ <comments>http://localhost/blog/post/metallotolerant#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:26:18</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Metallotolearnt microorganisms are the microorganisms that are capable of tolerating and detoxifying high levels of dissolved heavy metals.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in rocks (Endolith/Hypolith)</title> 
+ <link>http://localhost/blog/post/hypolith</link> 
+ <comments>http://localhost/blog/post/hypolith#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:23:17</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Endolith is an organism that survives in various inhospitable environments throughout the world, especially inside rocks, animal shells, coral reefs, and sand particles in the soil.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme pressure (Piezophiles/ Barophiles)</title> 
+ <link>http://localhost/blog/post/barophiles</link> 
+ <comments>http://localhost/blog/post/barophiles#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:21:19</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Barophiles are defined as organisms that grow and thrive optimally at pressures greater than atmospheric pressure.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme sugar concentrations (Osmophiles)</title> 
+ <link>http://localhost/blog/post/osmophiles</link> 
+ <comments>http://localhost/blog/post/osmophiles#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:18:34</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Osmophiles are a group of organisms that are adapted to survive in environments with high osmotic pressures like high sugar concentration.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme salinity (Halophiles)</title> 
+ <link>http://localhost/blog/post/halophiles</link> 
+ <comments>http://localhost/blog/post/halophiles#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:17:11</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Halophiles are a group of extremophiles that require high salt concentrations for their survival and growth.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme low humidity/water activity (Xerophiles)</title> 
+ <link>http://localhost/blog/post/xerophiles</link> 
+ <comments>http://localhost/blog/post/xerophiles#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:15:52</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Xerophiles are a group of extremophiles that are capable of surviving in environments with low availability of water or low water activity.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme pH (Acidophile/Alkaliphile)</title> 
+ <link>http://localhost/blog/post/acidophile</link> 
+ <comments>http://localhost/blog/post/acidophile#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:14:02</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Acidophiles are organisms that can survive and thrive at highly acidic conditions (usually at pH 2.0).</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme temperature</title> 
+ <link>http://localhost/blog/post/microorganisms-in-extreme-temperature</link> 
+ <comments>http://localhost/blog/post/microorganisms-in-extreme-temperature#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:12:26</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Psychrophiles, literally meaning cold-loving, are organisms adapted to growth at low temperatures, having an optimum growth temperature of greater than 15°C and a maximum growth temperature of greater than 20°C.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms in extreme Radiation (Radiophiles)</title> 
+ <link>http://localhost/blog/post/radiophiles</link> 
+ <comments>http://localhost/blog/post/radiophiles#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 29 May 2023 04:10:40</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Radiophiles are a group of extremophiles that are capable of surviving extreme forms of radiations like ionizing radiant (gamma rays) and UV radiation.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Protein-Folding Dynamics</title> 
+ <link>http://localhost/blog/post/protein-folding-dynamics</link> 
+ <comments>http://localhost/blog/post/protein-folding-dynamics#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 26 May 2023 12:01:59</pubDate> 
+ <category>Protein</category> 
+ <description>With modern computing techniques, we are able to predict protein structure. This is becoming more and more possible as more powerful computers allow the processing of large amounts of information.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbiology In Extreme Environments (Types and Examples)</title> 
+ <link>http://localhost/blog/post/microbiology-in-extreme-environments</link> 
+ <comments>http://localhost/blog/post/microbiology-in-extreme-environments#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 26 May 2023 09:41:16</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>﻿An extreme environment is a habitat characterized by harsh environmental conditions further than the optimal range for the development of humans or other living organisms.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Rhizospheric microorganisms and effects, PGPR and Mycorrhiza</title> 
+ <link>http://localhost/blog/post/rhizospheric-microorganisms</link> 
+ <comments>http://localhost/blog/post/rhizospheric-microorganisms#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 25 May 2023 10:24:11</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>The rhizosphere is the narrow region of soil around the plant root that is influenced by several factors like the root exudates and the associated soil microorganisms.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial degradation of chitin (Enzymes, Steps, Mechanisms)</title> 
+ <link>http://localhost/blog/post/microbial-degradation-of-chitin</link> 
+ <comments>http://localhost/blog/post/microbial-degradation-of-chitin#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 25 May 2023 09:26:43</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Chitin is a complex homopolysaccharide consisting of units of amino sugar glucosamine that accounts for the second most abundant polysaccharide of nature after cellulose.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial interaction and its types with examples</title> 
+ <link>http://localhost/blog/post/microbial-interaction</link> 
+ <comments>http://localhost/blog/post/microbial-interaction#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 25 May 2023 09:08:57</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>There are completely different kinds of microbial interactions which incorporates interaction with different microbes, Plant-Germ interactions promoting plant growth, interaction with animals, interaction with humans, and interaction with water, etc.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Soil- Definition, Composition, Properties, Types and Uses</title> 
+ <link>http://localhost/blog/post/soil</link> 
+ <comments>http://localhost/blog/post/soil#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 24 May 2023 05:37:57</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Soil is a biologically active porous medium that is present on the uppermost layer on the uppermost layer of the Earth’s crust formed by weathering processes under various influences.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial degradation of hemicellulose (Enzymes, Steps, Mechanisms)</title> 
+ <link>http://localhost/blog/post/microbial-degradation-of-hemicellulose</link> 
+ <comments>http://localhost/blog/post/microbial-degradation-of-hemicellulose#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 23 May 2023 10:04:35</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Hemicellulose is a group of complex polysaccharides that are found in the fibers of plants along with other polysaccharides like cellulose and pectin.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Soil Formation (Pedogenesis)- Factors, Process/Steps, Examples</title> 
+ <link>http://localhost/blog/post/pedogenesis</link> 
+ <comments>http://localhost/blog/post/pedogenesis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 23 May 2023 09:36:29</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Soil formation or pedogenesis is the process of evolution of soil under the influence of various physical, biological, climatic, and geological factors.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Phyllosphere microorganisms- Examples, Factors, Effects</title> 
+ <link>http://localhost/blog/post/phyllosphere-microorganisms</link> 
+ <comments>http://localhost/blog/post/phyllosphere-microorganisms#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 23 May 2023 09:24:05</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>﻿Phyllosphere is the aerial part or parts of the plant above the ground like the leaves, stems, and flowers that acts as a habitat for a variety of microorganisms.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial degradation of cellulose (Enzymes, Steps, Mechanisms)</title> 
+ <link>http://localhost/blog/post/microbial-degradation-of-cellulose</link> 
+ <comments>http://localhost/blog/post/microbial-degradation-of-cellulose#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 23 May 2023 09:08:27</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Cellulose is an organic polysaccharide composed of a linear chain of hundreds of β-linked D-glucose units.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial degradation of lignin (Enzymes, Steps, Mechanisms)</title> 
+ <link>http://localhost/blog/post/microbial-degradation-of-lignin</link> 
+ <comments>http://localhost/blog/post/microbial-degradation-of-lignin#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 22 May 2023 11:04:24</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Lignin is a group of complex aromatic polymers resulting from the oxidative combination of 4-hydroxyphenylpropanoids.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Organic waste recycling (methods, steps, significance, barriers)</title> 
+ <link>http://localhost/blog/post/organic-waste-recycling</link> 
+ <comments>http://localhost/blog/post/organic-waste-recycling#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 22 May 2023 10:36:02</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>﻿Organic wastes are materials from living sources like plants, animals, and microorganisms that are biodegradable and can be broken down into simpler organic molecules.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Agrobacterium-Mediated Gene Transfer (Transformation) in Plants</title> 
+ <link>http://localhost/blog/post/agrobacterium-mediated-gene-transfer</link> 
+ <comments>http://localhost/blog/post/agrobacterium-mediated-gene-transfer#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 22 May 2023 10:13:34</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Agrobacterium tumefaciens is the soil pathogen that utilizes its bacterial type IV secretion system for the transfer of its transferred (T)-DNA into the host cells.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microorganisms found in soil with effects and examples</title> 
+ <link>http://localhost/blog/post/microorganisms-in-soil</link> 
+ <comments>http://localhost/blog/post/microorganisms-in-soil#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 22 May 2023 09:59:04</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>﻿Soil microbiology is a branch of soil science concerned with soil-inhabiting microorganisms, their functions, and activities within the soil ecosystem.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Microbial degradation of pectin (Enzymes, Steps, Mechanisms)</title> 
+ <link>http://localhost/blog/post/microbial-degradation-of-pectin</link> 
+ <comments>http://localhost/blog/post/microbial-degradation-of-pectin#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 22 May 2023 09:47:04</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Pectin is a complex heteropolysaccharide composed of linear chains of α-D-galacturonic acid or other similar sugar derivatives, commonly found in plant cell walls as cementing material.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Biodegradation- Definition, Microbes, Factors, Steps</title> 
+ <link>http://localhost/blog/post/biodegradation</link> 
+ <comments>http://localhost/blog/post/biodegradation#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 21 May 2023 10:12:25</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Biodegradation is a natural process, whereas Bioremediation is a man-made biotechnological process.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Pasteurization- Definition, Types, Process, Comparison, Uses</title> 
+ <link>http://localhost/blog/post/pasteurization</link> 
+ <comments>http://localhost/blog/post/pasteurization#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Sun, 21 May 2023 09:25:15</pubDate> 
+ <category>Food Microbiology</category> 
+ <description>Pasteurization is one of the most crucial phases in the preservation and a necessity for food safety.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Foodborne Giardiasis- Food Poisoning by Giardia species</title> 
+ <link>http://localhost/blog/post/foodborne-giardiasis</link> 
+ <comments>http://localhost/blog/post/foodborne-giardiasis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 19 May 2023 10:59:38</pubDate> 
+ <category>Parasitology</category> 
+ <description>Parasites are widely spread in the environment and are responsible for causing diseases associated with diarrheal illness.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Wheatley Trichrome Staining</title> 
+ <link>http://localhost/blog/post/wheatley-trichrome-staining</link> 
+ <comments>http://localhost/blog/post/wheatley-trichrome-staining#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 19 May 2023 10:52:25</pubDate> 
+ <category>Staining</category> 
+ <description>Wheatley Trichrome staining technique is a special permanent satin used in parasitology for the detection and identification of intestine protozoans from stool samples.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Giemsa Stain- Principle, Procedure, Results, Interpretation</title> 
+ <link>http://localhost/blog/post/giemsa-stain</link> 
+ <comments>http://localhost/blog/post/giemsa-stain#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 19 May 2023 10:45:24</pubDate> 
+ <category>Staining</category> 
+ <description>Giemsa stain was a name adopted from a Germany Chemist scientist, for his application of a combination of reagents in demonstrating the presence of parasites in malaria.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Plasmodium vivax vs Plasmodium falciparum- 40 Differences</title> 
+ <link>http://localhost/blog/post/plasmodium-vivax-vs-plasmodium-falciparum</link> 
+ <comments>http://localhost/blog/post/plasmodium-vivax-vs-plasmodium-falciparum#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Fri, 19 May 2023 09:49:25</pubDate> 
+ <category>Parasitology</category> 
+ <description>Five species of Plasmodium are believed to cause malaria in humans: Plasmodium vivax, P. falciparum, P. malariae, P .ovale and P. knowlesi.   Of the five species that infect humans, P. vivax and P. falciparum cause 95% of the total infections.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Nosocomial Infections (Hospital-Acquired Infections)</title> 
+ <link>http://localhost/blog/post/hospital-acquired-infections</link> 
+ <comments>http://localhost/blog/post/hospital-acquired-infections#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 18 May 2023 05:57:23</pubDate> 
+ <category>Diseases</category> 
+ <description>Nosocomial infections can be defined as an infection developed within a person during a stay in a hospital or any other healthcare facility.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Genus Spirogyra – An Overview</title> 
+ <link>http://localhost/blog/post/spirogyra</link> 
+ <comments>http://localhost/blog/post/spirogyra#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 18 May 2023 05:05:02</pubDate> 
+ <category>Phycology</category> 
+ <description>Spirogyra is a green alga that is mostly found in freshwater in the form of clumps. These are also called Water silk or Mermaid’s tresses.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Toxigenic Algae And Algal Food Poisoning- An Overview</title> 
+ <link>http://localhost/blog/post/algal-food-poisoning</link> 
+ <comments>http://localhost/blog/post/algal-food-poisoning#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 18 May 2023 04:41:54</pubDate> 
+ <category>Phycology</category> 
+ <description>Toxigenic algae are the major concern of algal poisoning for aquatic animals, amphibians, reptiles, birds, mammals as well as humans and are found in marine, brackish and freshwater habitats.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Marburg Virus – Reservoir, Mode of transmission, Incubation Period, Symptom, Laboratory Diagnosis, Treatment</title> 
+ <link>http://localhost/blog/post/marburg-virus</link> 
+ <comments>http://localhost/blog/post/marburg-virus#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 18 May 2023 04:07:58</pubDate> 
+ <category>Virology</category> 
+ <description>● It is an another emerging zoonotic infectious disease that causes great concern. ● It belongs to Filoviridae family. ● It is formerly known as Marburg haemorrhagic fever (MHF).</description> 
+ </item> 
+ 
+ <item> 
+ <title>Chromoblastomycosis (Chromomycosis)- An Overview</title> 
+ <link>http://localhost/blog/post/chromoblastomycosis</link> 
+ <comments>http://localhost/blog/post/chromoblastomycosis#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 17 May 2023 11:17:08</pubDate> 
+ <category>Mycology</category> 
+ <description>Chromoblastomycosis that is also known as chromomycosis is a chronic fungal infection of the skin and the subcutaneous tissue, caused by different groups of dematiaceous fungi.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Lectin Pathway of the complement system</title> 
+ <link>http://localhost/blog/post/lectin-pathway</link> 
+ <comments>http://localhost/blog/post/lectin-pathway#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 17 May 2023 10:55:05</pubDate> 
+ <category>Immunology</category> 
+ <description>The lectin pathway (LP) proceeds like the classical pathway by activating the C3 convertase. The binding of mannose-binding proteins initiates the cascade of reactions in this pathway in blood plasma called lectins</description> 
+ </item> 
+ 
+ <item> 
+ <title>Innate vs. Acquired Immunity</title> 
+ <link>http://localhost/blog/post/innate-vs-acquired-immunity</link> 
+ <comments>http://localhost/blog/post/innate-vs-acquired-immunity#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 17 May 2023 10:36:31</pubDate> 
+ <category>Immunology</category> 
+ <description>The immune system is the complex network of organs, cells, and proteins that protects the body against infections. This defense system proceeds via the recognition and processing of foreign substances. The network consists of the lymphatic system, complement system, spleen, thymus, bone marrow, and cells (WBCs, B cells, T cells).</description> 
+ </item> 
+ 
+ <item> 
+ <title>Hemagglutination Assay- Principle, Types, Method, Uses</title> 
+ <link>http://localhost/blog/post/hemagglutination-assay</link> 
+ <comments>http://localhost/blog/post/hemagglutination-assay#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 17 May 2023 09:07:48</pubDate> 
+ <category>Immunology</category> 
+ <description>﻿The antigen and antibody reaction in which the antigen-antibody complex formed is visible in the form of clumps is called agglutination.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Serratia marcescens- An Overview</title> 
+ <link>http://localhost/blog/post/serratia-marcescens</link> 
+ <comments>http://localhost/blog/post/serratia-marcescens#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Mon, 15 May 2023 04:42:16</pubDate> 
+ <category>Bacteriology</category> 
+ <description>Since the 1990s, Serratia marcescens, a gram-negative bacillus categorized as an Enterobacteriaceae member, has been known to cause infections acquired in hospitals. Serratia spp. are gram-negative, motile rods without endospores. In nature, S. marcescens is widely distributed.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Influenza A Virus- An Overview</title> 
+ <link>http://localhost/blog/post/influenza-virus</link> 
+ <comments>http://localhost/blog/post/influenza-virus#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 04 May 2023 09:47:48</pubDate> 
+ <category>Virology</category> 
+ <description>Influenza A virus falls under the family Orthomyxoviridae. Influenza A virus particles are usually spherical and about 80- 120 nm in diameter.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Serial Dilution- Definition, Formula, Calculator, Procedure, Uses</title> 
+ <link>http://localhost/blog/post/serial-dilution</link> 
+ <comments>http://localhost/blog/post/serial-dilution#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 04 May 2023 08:55:51</pubDate> 
+ <category>Microbiology</category> 
+ <description>Serial dilution, as the name suggests, is a series of sequential dilutions that are performed to convert a dense solution into a more usable concentration.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Parts of a microscope with functions and labeled diagram</title> 
+ <link>http://localhost/blog/post/parts-of-microscope</link> 
+ <comments>http://localhost/blog/post/parts-of-microscope#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Thu, 04 May 2023 08:42:35</pubDate> 
+ <category>Microbiology</category> 
+ <description>Having been constructed in the 16th Century, Microscopes have revolutionalized science with their ability to magnify small objects such as microbial cells, producing images with definitive structures that are identifiable and characterizable.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Antimicrobial resistance (AMR) and Antibacterial Resistance (ABR)</title> 
+ <link>http://localhost/blog/post/antimicrobial-resistance-and-antibacterial-resistance</link> 
+ <comments>http://localhost/blog/post/antimicrobial-resistance-and-antibacterial-resistance#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 10:15:25</pubDate> 
+ <category>Microbiology</category> 
+ <description>Antimicrobial resistance (AMR) development in pathogenic microorganisms is a major public health issue, which is likely to result in aggravated illness, higher mortality, and escalated treatment costs with limited treatment options. If this problem is left as it is, there is no doubt that the death toll will be far more than 10 million death per year by 2050, as estimated in 2014’s AMR Review.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Micropropagation- Stages, Types, Applications, Advantages, Limitations</title> 
+ <link>http://localhost/blog/post/micropropagation</link> 
+ <comments>http://localhost/blog/post/micropropagation#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:36:42</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Micropropagation is the rapid vegetative propagation of plants under in vitro conditions of high light intensity, controlled temperature, and a defined nutrient medium.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Plant Tissue Culture</title> 
+ <link>http://localhost/blog/post/plant-tissue-culture</link> 
+ <comments>http://localhost/blog/post/plant-tissue-culture#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:28:52</pubDate> 
+ <category>Agricultural Microbiology</category> 
+ <description>Plant Tissue culture is the in vitro aseptic culture of cells, tissues, organs, or whole plant under controlled nutritional and environmental conditions often to produce the clones of plants.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Submerged Fermentation</title> 
+ <link>http://localhost/blog/post/submerged-fermentation</link> 
+ <comments>http://localhost/blog/post/submerged-fermentation#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:20:26</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Fermentation is the technique of biological conversion of complex substrates into simple compounds by various microorganisms such as bacteria and fungi.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Cell Fusion- Types and Significance</title> 
+ <link>http://localhost/blog/post/cell-fusion</link> 
+ <comments>http://localhost/blog/post/cell-fusion#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:10:38</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Until recently, cells were thought to be integral and discrete components of tissues, and their state was determined by cell differentiation.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Bacteriophage- Definition, Structure, Life Cycles, Applications, Phage Therapy</title> 
+ <link>http://localhost/blog/post/bacteriophage</link> 
+ <comments>http://localhost/blog/post/bacteriophage#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 03:06:54</pubDate> 
+ <category>Virology</category> 
+ <description>Bacteriophage or Phage is a virus that infects and replicates only within the body of bacteria.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Bioremediation- Objective, Principle, Categories, Types, Methods, Applications</title> 
+ <link>http://localhost/blog/post/bioremediation</link> 
+ <comments>http://localhost/blog/post/bioremediation#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:40:43</pubDate> 
+ <category>Environmental Microbiology</category> 
+ <description>Bioremediation refers to the use of either naturally occurring or deliberately introduced microorganisms to consume and break down environmental pollutants, in order to clean a polluted site.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Enzyme Technology</title> 
+ <link>http://localhost/blog/post/enzyme-technology</link> 
+ <comments>http://localhost/blog/post/enzyme-technology#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:20:41</pubDate> 
+ <category>Biotechnology</category> 
+ <description>The enzyme is a substance that acts as a catalyst in living organisms, regulating the rate at which chemical reactions proceed without itself being altered in the process.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Animal Cell Culture- Definition, Types, Cell Lines, Procedure, Applications</title> 
+ <link>http://localhost/blog/post/animal-cell-culture</link> 
+ <comments>http://localhost/blog/post/animal-cell-culture#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 09:10:22</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Animal cell culture is a type of biotechnological technique where animal cells are artificially grown in a favorable environment.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Types of Chromatography (Definition, Principle, Steps, Uses)</title> 
+ <link>http://localhost/blog/post/types-of-chromatography</link> 
+ <comments>http://localhost/blog/post/types-of-chromatography#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Wed, 03 May 2023 08:50:36</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Chromatography is an important biophysical technique that enables the separation, identification, and purification of the components of a mixture for qualitative and quantitative analysis.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Ultracentrifuge- Definition, Principle, Types, Parts, Procedure, Uses</title> 
+ <link>http://localhost/blog/post/ultracentrifuge</link> 
+ <comments>http://localhost/blog/post/ultracentrifuge#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 10:37:41</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Ultracentrifuge is a sophisticated and advanced centrifuge that operates at an extremely high speed and separates smaller molecules that cannot be separated from the traditional centrifuges.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Biopesticides- Definition, Types, and Advantages</title> 
+ <link>http://localhost/blog/post/biopesticides</link> 
+ <comments>http://localhost/blog/post/biopesticides#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 10:26:17</pubDate> 
+ <category>Biotechnology</category> 
+ <description>﻿Chemical pesticides have been used for a very long time in order to manage plant pests in agriculture. However, using such chemical products is associated with several concerns regarding the impact on human health and the environment.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Bioreactor- Definition, Design, Principle, Parts, Types, Applications, Limitations</title> 
+ <link>http://localhost/blog/post/bioreactor</link> 
+ <comments>http://localhost/blog/post/bioreactor#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 09:59:07</pubDate> 
+ <category>Biotechnology</category> 
+ <description>A bioreactor is a type of fermentation vessel that is used for the production of various chemicals and biological reactions. It is a closed container with adequate arrangement for aeration, agitation, temperature and pH control, and drain or overflow vent to remove the waste biomass of cultured microorganisms along with their products.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Ideonella sakaiensis (plastic-eating bacteria)</title> 
+ <link>http://localhost/blog/post/ideonella-sakaiensis-plastic-eating-bacteria</link> 
+ <comments>http://localhost/blog/post/ideonella-sakaiensis-plastic-eating-bacteria#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 09:36:28</pubDate> 
+ <category>Biotechnology</category> 
+ <description>Ideonella sakaiensis, a new species of the genus Ideonella, is a gram-negative, aerobic, rod-shaped bacterium. It is also known as plastic-eating bacteria.</description> 
+ </item> 
+ 
+ <item> 
+ <title>Next-Generation Sequencing (NGS)- Definition, Types</title> 
+ <link>http://localhost/blog/post/next-generation-sequencing</link> 
+ <comments>http://localhost/blog/post/next-generation-sequencing#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 02:29:55</pubDate> 
+ <category>​Bioinformatics</category> 
+ <description>Next Generation Sequencing (NGS) is a robust platform that has enabled the sequencing of thousands to millions of DNA molecules simultaneously.  Next-generation sequencing (NGS), also known as high-throughput sequencing, is the catch-all term used to describe a number of different modern sequencing technologies.</description> 
+ </item> 
+ 
+ <item> 
+ <title>DNA Sequencing- Definition, Principle, Steps, Types, Uses</title> 
+ <link>http://localhost/blog/post/dna-sequencing-definition-principle-steps-types-uses</link> 
+ <comments>http://localhost/blog/post/dna-sequencing-definition-principle-steps-types-uses#comment</comments> 
+ <creator>Vidyanand Jha</creator> 
+ <pubDate>Tue, 02 May 2023 12:49:43</pubDate> 
+ <category>​Bioinformatics</category> 
+ <description>DNA sequencing refers to methods for determining the order of the nucleotide bases adenine,guanine,cytosine, and thymine in a molecule of DNA.  The first DNA sequence was obtained by academic researchers, using laboratories methods based on 2- dimensional chromatography in the early 1970s.  By the development of dye based sequencing method with automated analysis, DNA sequencing has become easier and faster.</description> 
+ </item> 
+ 
+ <item> 
+ <title>DNA Microarray- Definition, Principle, Procedure, Types</title> 
+ <link>http://localhost/blog/post/dna-microarray-definition-principle-procedure-types</link> 
+ <comments>http://localhost/blog/post/dna-microarray-definition-principle-procedure-types#comment</comments> 
+ <creator>Vidyanand jha</creator> 
+ <pubDate>Tue, 02 May 2023 10:23:57</pubDate> 
+ <category>​Bioinformatics</category> 
+ <description>DNA microarrays are solid supports, usually of glass or silicon, upon which DNA is attached in an organized, pre-determined grid fashion.  Each spot of DNA, called a probe, represents a single gene.  DNA microarrays can analyze the expression of tens of thousands of genes simultaneously.</description> 
+ </item> 
+ 
+ </channel> 
+ </rss>
