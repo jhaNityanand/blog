@@ -28,7 +28,7 @@ class Question extends Model
 
     public $timestamps = true;
 
-    public function category() {
+    public function categorys() {
         return $this->hasOne('App\Models\Category', 'id', 'category');
     }
 }
