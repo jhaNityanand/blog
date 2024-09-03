@@ -99,7 +99,7 @@ class FrontEndController extends Controller
                     ->orderBy('id', 'desc')->get();
 
         $blog_side = Blog::where('url', '!=', $url)->where('status', 'Active')
-                    ->limit(12)->inRandomOrder()->get();
+                    ->limit(4)->inRandomOrder()->get();
 
         $blog_popup = Blog::where('url', '!=', $url)->where('status', 'Active')
                     ->limit(2)->inRandomOrder()->get();
@@ -146,7 +146,8 @@ class FrontEndController extends Controller
     public function questions()
     {
         $question_data = Category::where('type', 'question')->where('status', 'Active')->get();
-        return view('frontend.questions', compact('question_data'));
+        $blog_data = Question::with('categorys')->where('status', 'Active')->limit(15)->inRandomOrder()->get();
+        return view('frontend.questions', compact('question_data', 'blog_data'));
     }
 
     public function question($url)
@@ -168,7 +169,7 @@ class FrontEndController extends Controller
                     ->orderBy('id', 'desc')->get();
 
         $blog_side = Blog::where('url', '!=', $url)->where('status', 'Active')
-                    ->limit(12)->inRandomOrder()->get();
+                    ->limit(4)->inRandomOrder()->get();
 
         $blog_popup = Blog::where('url', '!=', $url)->where('status', 'Active')
                     ->limit(2)->inRandomOrder()->get();
